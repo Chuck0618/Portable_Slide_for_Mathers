@@ -2,6 +2,8 @@
 This is a simple Slide Template for represention in mathematics.
 
 这是一个简单的数学PPT模板，支持 markdown, latex, 中英文输入。
+显示的效果如下：
+![preview](/doc/face.png)
 
 ## 如何使用
 1. 用浏览器打开 template.html 可以演示PPT。
